@@ -11,7 +11,7 @@ public class Traingle {
     public double area()
 
     {
-    return ((1.0/2.0)*(base*height));
+    return ((base*height)/2);
   }
 
 }

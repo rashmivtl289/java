@@ -10,7 +10,7 @@ public class circle {
     }
      public double area()
     {
-        return ((3.1427*(2.0*radious)*(2.0*radious))/4.00);
+        return (3.1427*radious*radious);
     }
     
 }
